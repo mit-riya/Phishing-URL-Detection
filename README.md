@@ -12,11 +12,6 @@ The project includes the following features:
 
 - **Exploratory Data Analysis (EDA)**: The dataset is analyzed and visualized to understand its characteristics, patterns, and relationships. Various plots and metrics are used to explore the distribution of features and their correlations.
 
-- **Machine Learning Algorithms**: Several machine learning algorithms are implemented and evaluated for phishing website detection, including:
-  - Support Vector Machine (SVM)
-  - Decision Trees and Random Forest
-  - k Nearest Neighbors (KNN)
-
 - **Machine Learning Models**:
   - Support Vector Machine (SVM): Different kernels and optimization algorithms are explored to train SVM models for classification.
   - Decision Trees and Random Forest: Variants of decision tree algorithms such as ID3, C4.5, and CART are implemented, along with ensemble methods like Random Forest.
@@ -37,8 +32,3 @@ Run the scripts for feature extraction, data analysis, and machine learning mode
 
 - The performance of each machine learning algorithm is evaluated using various metrics such as accuracy, precision, recall, and F1-score.
 - Results are presented in tables and visualizations to compare the effectiveness of different algorithms and techniques.
-
-## Contributors
-
-- John Doe (@johndoe)
-- Jane Smith (@janesmith)
