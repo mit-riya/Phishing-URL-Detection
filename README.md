@@ -17,10 +17,6 @@ The project includes the following features:
   - Decision Trees and Random Forest
   - k Nearest Neighbors (KNN)
 
-## Implementation Details
-
-- **Feature Extraction**: Features are extracted manually from URLs and web pages, while some are obtained directly from the dataset. Various techniques are used to extract features such as domain registration length, presence of login forms, and URL length.
-
 - **Machine Learning Models**:
   - Support Vector Machine (SVM): Different kernels and optimization algorithms are explored to train SVM models for classification.
   - Decision Trees and Random Forest: Variants of decision tree algorithms such as ID3, C4.5, and CART are implemented, along with ensemble methods like Random Forest.
