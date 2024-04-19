@@ -14,7 +14,7 @@ The project includes the following features:
 
 - **Machine Learning Models**:
   - Support Vector Machine (SVM): Different kernels and optimization algorithms are explored to train SVM models for classification.
-  - Decision Trees and Random Forest: Variants of decision tree algorithms such as ID3, C4.5, and CART are implemented, along with ensemble methods like Random Forest.
+  - Decision Trees and Random Forest: Variants of decision tree algorithms such as ID3, C4.5, and CART are implemented, along with ensemble methods like Random Forest and Bagging Classifier.
   - k Nearest Neighbors (KNN): Different variants of the KNN algorithm are implemented, including Fuzzy KNN, Weight Adjusted KNN, Hassanat KNN, and Ensemble Approach KNN.
 
 ## Usage
