@@ -28,9 +28,14 @@ The project includes the following features:
 
 ## Usage
 
-1. Clone the repository:
-2. Install dependencies:
-3. Run the scripts for feature extraction, data analysis, and machine learning models as needed.
+Clone this repo using
+
+    git clone https://github.com/mit-riya/Phishing-URL-Detection
+Install dependencies
+
+    pip install -r requirements.txt
+    
+Run the scripts for feature extraction, data analysis, and machine learning models as needed.
 
 ## Results
 
